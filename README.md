@@ -1,4 +1,4 @@
-React bootstap app:
+React bootstrap app:
 
 cmds:
 
